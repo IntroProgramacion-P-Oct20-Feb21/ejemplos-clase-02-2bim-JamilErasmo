@@ -21,10 +21,10 @@ public class Ejemplo05 {
         int[] arreglo1 = new int[5];
         // Se asigna valores al arreglo
         arreglo1[0] = 10;
-        arreglo1[1] = 30;
-        arreglo1[2] = 50;
-        arreglo1[3] = 70;
-        arreglo1[4] = 90;
+        arreglo1[1] = 15;
+        arreglo1[2] = 30;
+        arreglo1[3] = 45;
+        arreglo1[4] = 60;
         // Se hace uso del ciclo repetitivo for para recorrer el arreglo
         for (int i = 0; i < arreglo1.length; i++) {
             System.out.printf("Subíndice o Índice %d, con valor %d\n",
